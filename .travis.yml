@@ -1,0 +1,5 @@
+langueage: python
+install:
+  - pip install django
+script:
+  - python manage.py test
